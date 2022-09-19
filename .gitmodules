@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RAREsim"]
+	path = RAREsim
+	url = https://github.com/meganmichelle/raresim
+	shallow = true
+	registered = true
